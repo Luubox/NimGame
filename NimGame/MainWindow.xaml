@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:NimGame"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+    <Grid x:Name="WindowGrid" HorizontalAlignment="Center" VerticalAlignment="Center">
         <Grid.RowDefinitions>
             <RowDefinition Height="75" />
             <RowDefinition Height="75" />
@@ -28,7 +28,8 @@
 
         <Button Name="Row1Button" 
                 Grid.Column="7" Grid.Row="0" Content="Row 1" 
-                Margin="10,10,10,10"/>
+                Margin="10,10,10,10"
+                Click="Row1Button_OnClick" /> 
         <Button Name="Row2Button" 
                 Grid.Column="7" Grid.Row="1" Content="Row 2"
                 Margin="10,10,10,10"/>
@@ -62,7 +63,7 @@
         <Image Grid.Column="5" Grid.Row="3" Source="Resources/EbbeVang.jpg"/>
         <Image Grid.Column="6" Grid.Row="3" Source="Resources/EbbeVang.jpg"/>-->
 
-        <TextBlock Grid.Column="3" Grid.Row="0" Text="Tændstik"
+        <!--<TextBlock Grid.Column="3" Grid.Row="0" Text="Tændstik"
                    HorizontalAlignment="Center" VerticalAlignment="Center"/>
 
         <TextBlock Grid.Column="2" Grid.Row="1" Text="Tændstik"
@@ -96,7 +97,9 @@
         <TextBlock Grid.Column="5" Grid.Row="3" Text="Tændstik"
                    HorizontalAlignment="Center" VerticalAlignment="Center"/>
         <TextBlock Grid.Column="6" Grid.Row="3" Text="Tændstik"
-                   HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                   HorizontalAlignment="Center" VerticalAlignment="Center"/>-->
+
+        <!--<Button Content="Button" HorizontalAlignment="Left" Height="100" Margin="-89,62.6,0,-12.4" Grid.Row="3" VerticalAlignment="Top" Width="75" Grid.RowSpan="2" Click="Button_Click"/>-->
 
     </Grid>
 </Window>
