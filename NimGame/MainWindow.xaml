@@ -44,26 +44,25 @@
 
         <!--<TextBlock Grid.Column="3" Grid.Row="0" Text=""
                    HorizontalAlignment="Center" VerticalAlignment="Center"/>-->
-        <!-- Temp -->
-        <Image Grid.Column="3" Grid.Row="0" Source="Assets\EbbeVang.jpg"/>
+        <Image Grid.Column="3" Grid.Row="0" Source="Resources/EbbeVang.jpg"/>
 
-        <Image Grid.Column="2" Grid.Row="1" Source="Assets\EbbeVang.jpg"/>
-        <Image Grid.Column="3" Grid.Row="1" Source="Assets\EbbeVang.jpg"/>
-        <Image Grid.Column="4" Grid.Row="1" Source="Assets\EbbeVang.jpg"/>
+        <Image Grid.Column="2" Grid.Row="1" Source="Resources/EbbeVang.jpg"/>
+        <Image Grid.Column="3" Grid.Row="1" Source="Resources/EbbeVang.jpg"/>
+        <Image Grid.Column="4" Grid.Row="1" Source="Resources/EbbeVang.jpg"/>
         
-        <Image Grid.Column="1" Grid.Row="2" Source="Assets\EbbeVang.jpg"/>
-        <Image Grid.Column="2" Grid.Row="2" Source="Assets\EbbeVang.jpg"/>
-        <Image Grid.Column="3" Grid.Row="2" Source="Assets\EbbeVang.jpg"/>
-        <Image Grid.Column="4" Grid.Row="2" Source="Assets\EbbeVang.jpg"/>
-        <Image Grid.Column="5" Grid.Row="2" Source="Assets\EbbeVang.jpg"/>
+        <Image Grid.Column="1" Grid.Row="2" Source="Resources/EbbeVang.jpg"/>
+        <Image Grid.Column="2" Grid.Row="2" Source="Resources/EbbeVang.jpg"/>
+        <Image Grid.Column="3" Grid.Row="2" Source="Resources/EbbeVang.jpg"/>
+        <Image Grid.Column="4" Grid.Row="2" Source="Resources/EbbeVang.jpg"/>
+        <Image Grid.Column="5" Grid.Row="2" Source="Resources/EbbeVang.jpg"/>
 
-        <Image Grid.Column="0" Grid.Row="3" Source="Assets\EbbeVang.jpg"/>
-        <Image Grid.Column="1" Grid.Row="3" Source="Assets\EbbeVang.jpg"/>
-        <Image Grid.Column="2" Grid.Row="3" Source="Assets\EbbeVang.jpg"/>
-        <Image Grid.Column="3" Grid.Row="3" Source="Assets\EbbeVang.jpg"/>
-        <Image Grid.Column="4" Grid.Row="3" Source="Assets\EbbeVang.jpg"/>
-        <Image Grid.Column="5" Grid.Row="3" Source="Assets\EbbeVang.jpg"/>
-        <Image Grid.Column="6" Grid.Row="3" Source="Assets\EbbeVang.jpg"/>
+        <Image Grid.Column="0" Grid.Row="3" Source="Resources/EbbeVang.jpg"/>
+        <Image Grid.Column="1" Grid.Row="3" Source="Resources/EbbeVang.jpg"/>
+        <Image Grid.Column="2" Grid.Row="3" Source="Resources/EbbeVang.jpg"/>
+        <Image Grid.Column="3" Grid.Row="3" Source="Resources/EbbeVang.jpg"/>
+        <Image Grid.Column="4" Grid.Row="3" Source="Resources/EbbeVang.jpg"/>
+        <Image Grid.Column="5" Grid.Row="3" Source="Resources/EbbeVang.jpg"/>
+        <Image Grid.Column="6" Grid.Row="3" Source="Resources/EbbeVang.jpg"/>
         <!--<TextBlock Grid.Column="2" Grid.Row="1" Text="Tændstik"
                    HorizontalAlignment="Center" VerticalAlignment="Center"/>
         <TextBlock Grid.Column="3" Grid.Row="1" Text="Tændstik"
