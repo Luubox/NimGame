@@ -43,9 +43,18 @@
                 Margin="10,10,10,10"
                 Click="Row4Button_OnClick"/>
         <Button Name="NextTurnButton" 
-                Grid.Column="7" Grid.Row="4" Content="Next Turn"
+                Grid.Column="7" Grid.Row="4" Content="Next&#x0a;Turn"
                 Margin="10,10,10,10"
                 Click="NextTurnButton_OnClick"/>
+        <Button Name="NewGameButton"
+                Grid.Column="6" Grid.Row="4" Content=" New&#x0a;Game"
+                Margin="10,10,10,10"
+                Click="NewGameButton_Onclick"/>
+        
+        <TextBlock Name="MessageTextBlock"
+                   Grid.Column="0" Grid.Row="4"
+                   Grid.ColumnSpan="3"
+                   Margin="10,10,10,10"/>
 
         <!--<Image Grid.Column="3" Grid.Row="0" Source="Resources/EbbeVang.jpg"/>
 
